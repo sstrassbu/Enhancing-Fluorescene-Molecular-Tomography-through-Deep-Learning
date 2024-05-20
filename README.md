@@ -3,4 +3,4 @@ This repository offers a framework for investigating the effectivity of deep lea
 
 <img src="core_workflow.png" alt="drawing" width="60%"/>
 
-Further details, references and sources can be found in thesis.pdf.
+Further details, references and sources can be found in Bachelor_Thesis_SvS.pdf.
